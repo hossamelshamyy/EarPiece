@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "267126595360",
+    "firebase_url": "https://earpiece-43afa.firebaseio.com",
+    "project_id": "earpiece-43afa",
+    "storage_bucket": "earpiece-43afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267126595360:android:3e1268c8f89038c0",
+        "android_client_info": {
+          "package_name": "com.soloapplications.earpiece"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267126595360-j0p6cvbm1r61j9send156rf30ok5m8ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlWXYwzXZaz_ClWO7tCsvF6WSZaqwSCPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
